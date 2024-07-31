@@ -31,13 +31,14 @@ let stringNumber = String(someNumber)
 // console.log(typeof someNumber);
 
 // *****************************Operations********************************
+
 // Example: 2+2=4 is an operation
 // If we bound two strings together that is also an operation
 
 // how we can get negative value, let's check
 
-let value = 3
-let negValue = -value
+// let value = 3
+// let negValue = -value
 // console.log(negValue);
 
 // console.log(2+2);
@@ -70,7 +71,13 @@ if you use third value as a string value then your first two values will be conv
 
 let gameCounter = 100
 gameCounter++;
-console.log(gameCounter);
+// console.log(gameCounter);
+
+
+
+
+
+
 
 
 
